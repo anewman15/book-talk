@@ -73,3 +73,6 @@ group :test do
 end
 
 gem "devise"
+gem "bootstrap", "~> 5.3"
+gem "simple_form", "~> 5.3"
+gem "sass-rails", "~> 6.0"
